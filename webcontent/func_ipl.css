@@ -1,0 +1,263 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.6rem;
+}.group-3-UHq {
+  width: 100%;
+  height: 76.8rem;
+}
+.group-3-UHq .group-1-UBM {
+  width: 100%;
+  height: 100%;
+  background-color: #d9d9d9;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 {
+  width: 147.8926rem;
+  height: 83.9105rem;
+  position: absolute;
+  left: -11.287rem;
+  top: -0.1rem;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .body-V1u {
+  width: 147.3055rem;
+  height: 74.8932rem;
+  position: absolute;
+  left: 0;
+  top: 9.0173rem;
+  background-color: #f3f3f3;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .header-bar-mk7 {
+  width: 147.3055rem;
+  height: 8.6959rem;
+  position: absolute;
+  left: 0.587rem;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .user-circle-1-owh {
+  width: 2.7858rem;
+  height: 2.8081rem;
+  position: absolute;
+  left: 133.3495rem;
+  top: 3.5371rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .search-alt-2-1-JdZ {
+  width: 3.2351rem;
+  height: 3.261rem;
+  position: absolute;
+  left: 110.8565rem;
+  top: 4.6693rem;
+  overflow: hidden;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .shopping-bag-1-P9D {
+  width: 2.2646rem;
+  height: 2.3914rem;
+  position: absolute;
+  left: 121.9637rem;
+  top: 5.1041rem;
+  overflow: hidden;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .shopping-bag-2-Vi3 {
+  width: 2.2646rem;
+  height: 2.3914rem;
+  position: absolute;
+  left: 123.6891rem;
+  top: 3.5824rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .search-box-oCw {
+  box-sizing: border-box;
+  padding: 1.196rem 3.092rem 1.106rem 2.157rem;
+  width: 24.2634rem;
+  height: 4.8914rem;
+  position: absolute;
+  left: 92.2007rem;
+  top: 2.278rem;
+  display: flex;
+  align-items: center;
+  background-color: #eeebeb;
+  border-radius: 2.7rem;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .search-box-oCw .search-EZ9 {
+  margin: 0rem 11.145rem 0.373rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .search-box-oCw .vector-EUb {
+  width: 2.5692rem;
+  height: 2.59rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .whatsapp-image-2023-02-03-at-1452-1-VvK {
+  width: 136.6377rem;
+  height: 68.2572rem;
+  position: absolute;
+  left: 11.2451rem;
+  top: 8.6713rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  filter: blur(0.2rem);
+  background-color: rgba(0, 0, 0, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('card-bg1.jpg');
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .form-VJ3 {
+  box-sizing: border-box;
+  padding: 13rem 13rem 7.5rem 12.3rem;
+  width: 45.2rem;
+  height: 48.9rem;
+  position: absolute;
+  left: 57.587rem;
+  top: 25rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('card-bg1.jpg');
+  border-radius: 1.6rem;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .form-VJ3 .auto-group-yfkh-YGK {
+  margin: 0rem 0rem 7.8rem 0.2rem;
+  width: 19.7rem;
+  height: 4.4rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #131247;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .form-VJ3 .auto-group-1z9m-uWB {
+  margin: 0rem 0.2rem 7.4rem 0rem;
+  width: 19.7rem;
+  height: 4.4rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141247;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .form-VJ3 .auto-group-m69h-883 {
+  margin: 0 0.1rem;
+  width: calc(100% - 0.2rem);
+  height: 4.4rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #141247;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .rectangle-7-XAB {
+  width: 43.6rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 58.487rem;
+  top: 16.8rem;
+  background-color: #eddddd;
+  border-radius: 1.6rem;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .subcrition-page-1-h63 .options-p9H {
+  width: 14rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 73.287rem;
+  top: 18.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .modern-elegant-photography-tree-circle-logo-2-UzX {
+  width: 9.6rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 0;
+  top: -0.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.group-3-UHq .group-1-UBM .question-add-ECT .modern-elegant-photography-tree-circle-logo-3-aXm {
+  width: 9.6rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 0;
+  top: -0.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.m1{
+	 margin: 0 0.1rem;
+    width: 86px;
+    height: 4.4rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.2125;
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #141247;
+    border-radius: 1.6rem;
+    flex-shrink: 0;
+    position: relative;
+    left: 17rem;
+}

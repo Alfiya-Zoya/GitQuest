@@ -1,0 +1,245 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 136.6rem;
+}.register-Wjk {
+  width: 100%;
+  height: 76.8rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.register-Wjk .subcrition-page-1-5RU {
+  width: 136.6rem;
+  height: 76.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-t65q-GuG {
+  box-sizing: border-box;
+  padding: 1.8rem 10.358rem 1rem 85.5rem;
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-t65q-GuG .auto-group-68nn-hjg {
+  margin-right: 5.1rem;
+  width: 22.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-t65q-GuG .auto-group-68nn-hjg .search-alt-2-1-1VU {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 2.2rem;
+  overflow: hidden;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-t65q-GuG .auto-group-68nn-hjg .search-box-6mp {
+  box-sizing: border-box;
+  padding: 1.1rem 2.868rem 1.017rem 2rem;
+  width: 22.5rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #eeebeb;
+  border-radius: 2.7rem;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-t65q-GuG .auto-group-68nn-hjg .search-box-6mp .search-Amg {
+  margin: 0rem 9.95rem 0.183rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-t65q-GuG .auto-group-68nn-hjg .search-box-6mp .vector-UpJ {
+  width: 2.3825rem;
+  height: 2.3828rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-t65q-GuG .auto-group-7bgn-YZG {
+  margin: 0.8rem 6.858rem 0rem 0rem;
+  width: 3.7rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-t65q-GuG .user-circle-1-2zE {
+  margin-bottom: 0.2999rem;
+  width: 2.5833rem;
+  height: 2.5834rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-aeuy-6UJ {
+  box-sizing: border-box;
+  padding: 4.2rem 23.25rem 4.9rem 29.95rem;
+  width: 100%;
+  height: 68.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f3f3f3;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-aeuy-6UJ .youre-almost-there-complete-your-registration-kok {
+  margin-bottom: 6.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-aeuy-6UJ .form-1Dt {
+  margin: 0rem 21.35rem 0rem 16.85rem;
+  box-sizing: border-box;
+  padding: 4.1rem 6.5rem 10.6rem 6.5rem;
+  width: calc(100% - 38.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fffbfb;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-aeuy-6UJ .form-1Dt .username-rkJ {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1.1rem 0.7rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #6f6969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #eeebeb;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.text
+{
+  width:100%;
+  font-size: larger;
+  background-color:#eeebeb;
+  
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-aeuy-6UJ .form-1Dt .email-GJE {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #6f6969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #eeebeb;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-aeuy-6UJ .form-1Dt .phone-number-6o4 {
+  margin-bottom: 3rem;
+  box-sizing: border-box;
+  padding: 1.1rem 0.9rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #6f6969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #eeebeb;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-aeuy-6UJ .form-1Dt .password-Kvi {
+  margin-bottom: 4rem;
+  box-sizing: border-box;
+  padding: 1.1rem 0.9rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #6f6969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #eeebeb;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.register-Wjk .subcrition-page-1-5RU .auto-group-aeuy-6UJ .form-1Dt .auto-group-ph78-BCE {
+  margin: 0rem 7.8rem 0rem 4.7rem;
+  width: calc(100% - 12.5rem);
+  height: 4.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7b79f8;
+  flex-shrink: 0;
+}
+.register-Wjk .modern-elegant-photography-tree-circle-logo-2-A4A {
+  width: 9.6rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.alert{
+  width:100%;
+  background: rgb(0, 255,106) ;
+  padding:10px 20px;
+  border-radius:5px;
+  text-align:center;
+  font-size:18px;
+  font-weight:900;
+  display:none;
+}
