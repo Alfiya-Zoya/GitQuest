@@ -1,12 +1,12 @@
 # GitQuest
 This project aims at developing a cake ordering application that allows customers to 
-customize their own cakes. The proposed application aims to provide a convenient and userfriendly platform for customers to browse through a range of cake designs and customization 
+customize their own cakes. The proposed application aims to provide a convenient and user-friendly platform for customers to browse through a range of cake designs and customization 
 options, and to place orders for cakes that meet their specific needs and preferences.
 The application will be designed with a focus on providing a seamless and intuitive user 
 experience. Customers will be able to easily navigate through different categories of cakes, 
 such as birthday cakes, wedding cakes, and specialty cakes, and customize their selections 
 with a range of flavours, fillings, toppings, and decorations. The application will also include 
-features such as real-time order tracking and online payment processing, to ensure a hasslefree ordering process for customers.
+features such as real-time order tracking and online payment processing, to ensure a hassle-free ordering process for customers.
 The cake ordering application is an innovative platform that allows users to create and order 
 their very own customized cake from the comfort of their own home. With a wide variety of 
 cake bases, flavours, toppings, and decorations available to choose from, customers have 
