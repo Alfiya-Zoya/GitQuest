@@ -1,8 +1,13 @@
 # GitQuest
-This project (Gitquest) aims at developing a crowd sourcing model that educational institutes can use to create their own question banks and format a question paper for themselves. The proposed application aims to provide a convenient and user-friendly platform for user to browse through a Subjective based question model with various subjects, and to add their own question that meet their specific needs and preferences.
 
-The application will be designed with a focus on providing a seamless and intuitive user experience. Users will be able to easily navigate through different subjects, such as Computer Organization, Operating Systems, Data Structures, etc. The application will also include features such question paper generator, setting difficulty level. 
+## Description
+<p align="justify">GitQuest is a collaborative platform designed for educational institutes to build and manage their own question banks and create customized question papers. The application provides a user-friendly interface for browsing and contributing subjective questions across various subjects such as Computer Organization, Operating Systems, and Data Structures. With features like a question paper generator and difficulty level settings, GitQuest offers a convenient way for educators to curate question papers that meet their specific requirements.
 
-The GitQuest platform is built on the premise of collaboration and community, with subject matter experts, educators, and students all contributing to the development of the question bank. Users can contribute questions based on their expertise and knowledge, and these questions can then be reviewed and curated by other users to ensure accuracy and relevance. This collaborative process ensures that the question bank is constantly evolving and improving, and that it remains up-to-date with the latest developments in the subject area.
+Built on the principles of collaboration and community, GitQuest allows educators, students, and subject matter experts to contribute and review questions, ensuring the question bank is accurate, relevant, and constantly evolving. The platform simplifies the process of creating question papers by enabling customization of difficulty levels, time limits, and question weightage, allowing educators to align assessments with course objectives and student needs effectively.</p>
 
-The process of creating a question paper on GitQuest is simple and intuitive. Educators can select questions from the question bank based on difficulty level and topic, and arrange them in a format that suits their requirements. The platform also provides a range of customization options, including the ability to add time limits and adjust the weightage of each question. This customization allows educators to tailor the question paper to the needs of their students and the learning objectives of the course.
+## Technologies Used
+1. MySQL - For storing and managing the database of questions, user profiles, and other relevant data, due to its reliability and relational database support.
+2. Tomcat - As the web server to deploy Java Servlets and handle server-side processing, providing a lightweight and robust server environment.
+3. JDBC Connector - To connect Java applications to the MySQL database, enabling seamless database interactions.
+4. Java (Servlets) - For server-side development to process requests, manage authentication, and generate question papers.
+5. HTML and CSS- To develop the user interface, making the application interactive and visually appealing.
