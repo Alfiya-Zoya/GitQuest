@@ -19,34 +19,35 @@ Built on the principles of collaboration and community, GitQuest allows educator
 ![image](https://github.com/user-attachments/assets/ff45917d-0893-4d27-8a25-f39ce5304462)
 
 ## Results
-<p align="center"> 
-  <b>Landing Page</b><br>
+<b>Landing Page</b><br>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/3148388a-6d90-4dba-9eef-38a0bb5b77d1" alt="Landing Page" />
 </p>
 
+<b>Options Page</b><br>
 <p align="center">
-  <b>Options Page</b><br>
   <img src="https://github.com/user-attachments/assets/df83e48f-c9a7-4620-a7d0-0b30db5eacce" alt="Options Page" />
 </p>
 
+<b>Enter Questions</b><br>
 <p align="center">
-  <b>Enter Questions</b><br>
   <img src="https://github.com/user-attachments/assets/6f35d9a6-860c-4a09-a48a-5c1b16c0e454" alt="Enter Questions" />
 </p>
 
+<b>View Questions</b><br>
 <p align="center">
-  <b>View Questions</b><br>
   <img src="https://github.com/user-attachments/assets/b6480465-06a9-46ec-b343-0f2f45d3ded1" alt="View Questions" />
 </p>
 
+<b>Generate Question Paper</b><br>
 <p align="center">
-  <b>Generate Question Paper</b><br>
   <img src="https://github.com/user-attachments/assets/782a8a33-3ceb-4753-be52-103964ee017b" alt="Generate Question Paper" />
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/05d64cf0-1fd8-4c73-9ab9-833cbf646cce" alt="Generate Question Paper Continued" />
 </p>
+
 
 
 
