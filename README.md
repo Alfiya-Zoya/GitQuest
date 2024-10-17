@@ -1,9 +1,9 @@
 # GitQuest
 
 ## Description
-<p align="justify">GitQuest is a collaborative platform designed for educational institutes to build and manage their own question banks and create customized question papers. The application provides a user-friendly interface for browsing and contributing subjective questions across various subjects such as Computer Organization, Operating Systems, and Data Structures. With features like a question paper generator and difficulty level settings, GitQuest offers a convenient way for educators to curate question papers that meet their specific requirements.
+<p align="justify">GitQuest is a collaborative platform designed for educational institutes to build and manage their own question banks and create customized question papers. The application provides a user-friendly interface for browsing and contributing subjective questions across various subjects such as Computer Organization, Operating Systems, and Data Structures. With features like a question paper generator and difficulty level settings, GitQuest offers a convenient way for educators to curate question papers that meet their specific requirements.</p>
 
-Built on the principles of collaboration and community, GitQuest allows educators, students, and subject matter experts to contribute and review questions, ensuring the question bank is accurate, relevant, and constantly evolving. The platform simplifies the process of creating question papers by enabling customization of difficulty levels, time limits, and question weightage, allowing educators to align assessments with course objectives and student needs effectively.</p>
+<p align="justify">Built on the principles of collaboration and community, GitQuest allows educators, students, and subject matter experts to contribute and review questions, ensuring the question bank is accurate, relevant, and constantly evolving. The platform simplifies the process of creating question papers by enabling customization of difficulty levels, time limits, and question weightage, allowing educators to align assessments with course objectives and student needs effectively.</p>
 
 ## Technologies Used
 <p align="justify">
